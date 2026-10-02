@@ -1,3 +1,4 @@
+**Live demo:** https://contentcreatorsapp.onrender.com
 # Vago — AI Content Studio for Brands & Creators
 
 Flask + SQLite + vanilla JS web app with Gemini integration. No Streamlit. Ships with sample data (brand *Aaraa Millets*, 3 campaigns, 7 pieces).
